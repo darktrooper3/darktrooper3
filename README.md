@@ -1,4 +1,5 @@
 ### Hi there 👋
+## 🔭 I’m currently working on YouTube videos about programming.
 
 <!--
 **darktrooper3/darktrooper3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
